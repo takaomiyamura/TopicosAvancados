@@ -1,0 +1,13 @@
+1 - Baixar NodeJs 
+2 - Após a instalação abrir seu CMD e digitar:
+
+ npm i -g typescript  (Irá instalar o Typescript Globalmente).
+
+3 - para iniciar o config dele, no CMD digitar: 
+(OBS: Não irá precisar caso pegue deste projeto!)
+
+tsc --init  (O Framework utiliza-se o TSC para executar/compilar).
+
+4 - para facilitar sua vida e não precisar ficar dando reload toda hora para ver o que mudou.
+
+tsc -w (Ele faz a compilação automática).
